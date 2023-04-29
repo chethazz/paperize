@@ -16,12 +16,12 @@ const Home = () => {
         <section className="devices">
   <div className="row">
     <div className="col-md-6 mt-4">
-      <div className="overflow-hidden smartphone">
+      <div className="smartphone">
         <h2>Smartphone</h2>
       </div>
     </div>
     <div className="col-md-6 mt-4">
-      <div className="overflow-hidden desktop">
+      <div className="desktop">
         <h2>Desktop</h2>
       </div>
     </div>
