@@ -73,21 +73,18 @@ h1 {
   border-radius: 12px;
 }
 
-.smartphone:hover::before {
+.smartphone:hover::before,
+.desktop:hover::before  {
   opacity: 1;
+  cursor: pointer;
 }
 
-.desktop:hover::before {
+
+.smartphone:hover h2, .desktop:hover h2 {
   opacity: 1;
+  cursor: default;
 }
 
-.smartphone:hover h2 {
-  opacity: 1;
-}
-
-.desktop:hover h2 {
-  opacity: 1;
-}
 
 .smartphone h2, .desktop h2{
   position: absolute;
