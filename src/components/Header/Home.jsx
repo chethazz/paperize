@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className='main'>
         <div className='branding'>
-          <h1>
+          <h1 className='slogan'>
             Your Wallpaper Defines Your Personality
           </h1>
         </div>

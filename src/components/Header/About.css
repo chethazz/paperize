@@ -1,0 +1,48 @@
+.about {
+    background-color: rgb(247, 247, 247);
+    font-family: 'Ubuntu', sans-serif;
+    height: screen;
+}
+
+.about-info {
+    justify-content: center;
+    text-align: center;
+    padding: 8rem 7rem 6rem;
+    align-items: center;
+}
+
+.about-info-container {
+    padding-top: 4rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: rgb(227, 227, 227);
+    border-radius: 30px;
+}
+
+.about-info h1 {
+    font-size: 3rem;
+}
+
+.about-info p {
+    margin-top: 4rem;
+    font-size: 18px;
+    font-family: 'Poppins';
+    padding-bottom: 4rem;
+}
+
+.unsplash a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.unsplash {
+    padding-top: 8rem;
+}
+
+
+@media screen and (max-width: 480px) {
+    .about-info {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
