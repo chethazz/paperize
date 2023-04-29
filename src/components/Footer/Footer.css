@@ -1,0 +1,9 @@
+.footer {
+    background-color: rgb(247, 247, 247);
+    height: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding-bottom: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
