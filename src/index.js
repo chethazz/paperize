@@ -16,6 +16,7 @@ import NatureSmartphone from './components/devices/smartphone/smartphonecat/Natu
 import NightSkySmartphone from './components/devices/smartphone/smartphonecat/NightSkySmartphone';
 import PastelSmartphone from './components/devices/smartphone/smartphonecat/PastelSmartphone';
 import VintageSmartphone from './components/devices/smartphone/smartphonecat/VintageSmartphone';
+import WaterSmartphone from './components/devices/smartphone/smartphonecat/WaterSmartphone';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -36,6 +37,7 @@ root.render(
           <Route path='home/smartphone/nightsky' element={<NightSkySmartphone />} />
           <Route path='home/smartphone/pastel' element={<PastelSmartphone />} />
           <Route path='home/smartphone/vintage' element={<VintageSmartphone />} />
+          <Route path='home/smartphone/water' element={<WaterSmartphone />} />
       <Route path='about' element={<About />} />
     </Routes>
   </BrowserRouter>
