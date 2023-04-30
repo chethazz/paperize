@@ -28,6 +28,7 @@ import PastelDesktop from './components/devices/desktop/desktopcat/PastelDesktop
 import VintageSmartphone from './components/devices/smartphone/smartphonecat/VintageSmartphone';
 import VintageDesktop from './components/devices/desktop/desktopcat/VintageDesktop';
 import WaterSmartphone from './components/devices/smartphone/smartphonecat/WaterSmartphone';
+import WaterDesktop from './components/devices/desktop/desktopcat/WaterDesktop';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -47,6 +48,7 @@ root.render(
           <Route path='home/desktop/nightsky' element={<NightSkyDesktop />} />
           <Route path='home/desktop/pastel' element={<PastelDesktop />} />
           <Route path='home/desktop/vintage' element={<VintageDesktop />} />
+          <Route path='home/desktop/water' element={<WaterDesktop />} />
         <Route path='home/smartphone' element={<Smartphone />} />
           <Route path='home/smartphone/abstract' element={<AbstractSmartphone />} />
           <Route path='home/smartphone/aerial' element={<AerialSmartphone />} />
