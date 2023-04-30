@@ -1,8 +1,8 @@
 .footer {
-    padding-top: 2rem;
+    padding-top: 4rem;
     background-color: rgb(247, 247, 247);
     height: 50px;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -10,7 +10,7 @@
     width: 50%;
     float: left;
     text-align: left;
-    padding-left: 2rem;
+    padding-left: 5rem;
     padding-bottom: 1rem;
 }
 
@@ -18,10 +18,30 @@
     width: 50%;
     text-align: right;
     float: right;
-    padding-right: 2rem;
+    padding-right: 4rem;
     padding-bottom: 1rem;
 }
 
 .regulus a {
     color: inherit;
+}
+
+.padding {
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .footer {
+        padding-top: 2rem;
+    }
+    .regulus h4, .credits h4 {
+        font-size: 18px;
+    }
+    .regulus {
+        padding-right: 1.5rem;
+    }
+    .credits {
+        padding-left: 1.5rem;
+    }
 }

@@ -4,13 +4,15 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
+      <div className='paddin'>
       <div className='credits'>
-      <h2>Credits - Unsplash</h2>
+      <h4>Credits - Unsplash</h4>
       </div>
       <div className='regulus'>
-        <h3>By&nbsp;
+        <h4>By&nbsp;
           <a href="https://chethazz.vercel.app">Regulus</a>
-        </h3>
+        </h4>
+      </div>
       </div>
     </div>
   )
