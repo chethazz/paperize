@@ -186,7 +186,7 @@ export const CarsSmartphone = () => {
               class="zoom  rounded-4 shadow"
             />
           </div>
-          <div class="SmartphoneAbstract18 rounded-4 shadow">
+          <div class="rounded-4 shadow">
             <img
               src="https://source.unsplash.com/featured/1440x3120/daily?car,dark"
               alt=""
