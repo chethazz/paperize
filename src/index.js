@@ -12,6 +12,7 @@ import CarsSmartphone from './components/devices/smartphone/smartphonecat/CarsSm
 import CitySmartphone from './components/devices/smartphone/smartphonecat/CitySmartphone';
 import MountainSmartphone from './components/devices/smartphone/smartphonecat/MountainsSmartphone';
 import MusicSmartphone from './components/devices/smartphone/smartphonecat/MusicSmartphone';
+import NatureSmartphone from './components/devices/smartphone/smartphonecat/NatureSmartphone';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -28,6 +29,7 @@ root.render(
           <Route path='home/smartphone/cars' element={<CarsSmartphone />} />
           <Route path='home/smartphone/mountain' element={<MountainSmartphone />} />
           <Route path='home/smartphone/music' element={<MusicSmartphone />} />
+          <Route path='home/smartphone/nature' element={<NatureSmartphone />} />
       <Route path='about' element={<About />} />
     </Routes>
   </BrowserRouter>
