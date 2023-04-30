@@ -22,7 +22,7 @@ export const ArchitectureSmartphone = () => {
     <div>
       <Navbar />
       <div className="main">
-        <div className="architecture-img category-head">
+        <div className="architecture-img category-head category-larger">
           <h1>Architecture</h1>
         </div>
 

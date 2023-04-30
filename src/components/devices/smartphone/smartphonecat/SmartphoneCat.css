@@ -75,6 +75,10 @@
   border-radius: 15px;
 }
 
+.category-larger h1 {
+    font-size: 45px !important;
+  }
+
 .gridsmartphone {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
