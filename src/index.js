@@ -20,6 +20,7 @@ import MountainDesktop from './components/devices/desktop/desktopcat/MountainsDe
 import MusicSmartphone from './components/devices/smartphone/smartphonecat/MusicSmartphone';
 import MusicDesktop from './components/devices/desktop/desktopcat/MusicDesktop';
 import NatureSmartphone from './components/devices/smartphone/smartphonecat/NatureSmartphone';
+import NatureDesktop from './components/devices/desktop/desktopcat/NatureDesktop';
 import NightSkySmartphone from './components/devices/smartphone/smartphonecat/NightSkySmartphone';
 import PastelSmartphone from './components/devices/smartphone/smartphonecat/PastelSmartphone';
 import VintageSmartphone from './components/devices/smartphone/smartphonecat/VintageSmartphone';
@@ -39,6 +40,7 @@ root.render(
           <Route path='home/desktop/city' element={<CityDesktop />} />
           <Route path='home/desktop/music' element={<MusicDesktop />} />
           <Route path='home/desktop/mountain' element={<MountainDesktop />} />
+          <Route path='home/desktop/nature' element={<NatureDesktop />} />
         <Route path='home/smartphone' element={<Smartphone />} />
           <Route path='home/smartphone/abstract' element={<AbstractSmartphone />} />
           <Route path='home/smartphone/aerial' element={<AerialSmartphone />} />
