@@ -1,8 +1,15 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Home.css';
+import { useNavigate, useLocation } from 'react-router-dom';
 
 const Home = () => {
+  const navigate = useNavigate();
+    const location = useLocation();
+    const navigateToDevice = (device) => {
+        navigate(`/home/${device}`);
+        window.scrollTo(0, 0);
+      }
   return (
     <div className='main'>
         <div className='branding'>
@@ -16,12 +23,12 @@ const Home = () => {
         <section className="devices">
   <div className="row">
     <div className="col-md-6 mt-4">
-      <div className="smartphone">
+      <div className="smartphone" onClick={() => navigateToDevice("smartphone")}>
         <h2>Smartphone</h2>
       </div>
     </div>
     <div className="col-md-6 mt-4">
-      <div className="desktop">
+      <div className="desktop" onClick={() => navigateToDevice("desktop")}>
         <h2>Desktop</h2>
       </div>
     </div>
