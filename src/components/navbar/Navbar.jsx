@@ -14,7 +14,7 @@ export const Navbar = () => {
   return (
     <nav>
       <ul class="m-auto p-0">
-          <li class="nav-item d-inline-block px-3" onClick={() => navigateTo("home")}>Home</li>
+          <li class="nav-item d-inline-block px-3" onClick={() => navigateTo("")}>Home</li>
           <li class="nav-item d-inline-block px-3" onClick={() => navigateTo("about")}>About</li>
       </ul>
     </nav>
