@@ -10,6 +10,7 @@ import AbstractDesktop from './components/devices/desktop/desktopcat/AbstractDes
 import AerialSmartphone from './components/devices/smartphone/smartphonecat/AerialSmartphone';
 import AerialDesktop from './components/devices/desktop/desktopcat/AerialDesktop';
 import ArchitectureSmartphone from './components/devices/smartphone/smartphonecat/ArchitectureSmartphone';
+import ArchitectureDesktop from './components/devices/desktop/desktopcat/ArchitectureDesktop';
 import CarsSmartphone from './components/devices/smartphone/smartphonecat/CarsSmartphone';
 import CitySmartphone from './components/devices/smartphone/smartphonecat/CitySmartphone';
 import MountainSmartphone from './components/devices/smartphone/smartphonecat/MountainsSmartphone';
@@ -29,6 +30,7 @@ root.render(
         <Route path='home/desktop' element={<Desktop />} />
           <Route path='home/desktop/abstract' element={<AbstractDesktop />} />
           <Route path='home/desktop/aerial' element={<AerialDesktop />} />
+          <Route path='home/desktop/architecture' element={<ArchitectureDesktop />} />
         <Route path='home/smartphone' element={<Smartphone />} />
           <Route path='home/smartphone/abstract' element={<AbstractSmartphone />} />
           <Route path='home/smartphone/aerial' element={<AerialSmartphone />} />
