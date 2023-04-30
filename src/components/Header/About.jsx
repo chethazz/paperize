@@ -11,10 +11,11 @@ export const About = () => {
                 <div className='about-info'>
                     <div className='about-info-container'>
                     <h1>About Paperize</h1>
-                    <p>Paperize fetches top images from Unsplash API. 
-                        They are high resolution. The aspect ratio depends upon the device type.
-                        There are two options available to choose from. Either desktop or smartphone.
-                        The design language of this project was inspired from&nbsp;
+                    <p>Paperize fetches top images from Unsplash API. They're updated every day.
+                        They are high resolution. There are two options available to choose from. Either Desktop or Smartphone.
+                        The resolution depends upon the device type you select.
+                        Resolution is 3840x2160 for Desktop and 1440x3120 for Smartphone.
+                        The design language for this project was inspired from&nbsp;
                         <a href="http://github.com/98mohitkumar" >Mohit Kumar</a>'s prjects
                         </p>
                     
