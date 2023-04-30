@@ -1,9 +1,10 @@
 .footer {
+    padding-top: 4rem;
     background-color: rgb(247, 247, 247);
     height: 50px;
     justify-content: center;
     display: flex;
     align-items: center;
-    padding-bottom: 30px;
+    padding-bottom: 3rem;
     font-family: 'Ubuntu', sans-serif;
 }
