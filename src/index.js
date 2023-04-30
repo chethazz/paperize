@@ -8,6 +8,8 @@ import Smartphone from './components/devices/smartphone/Smartphone';
 import AbstractSmartphone from './components/devices/smartphone/smartphonecat/AbstractSmartphone';
 import AerialSmartphone from './components/devices/smartphone/smartphonecat/AerialSmartphone';
 import ArchitectureSmartphone from './components/devices/smartphone/smartphonecat/ArchitectureSmartphone';
+import CarsSmartphone from './components/devices/smartphone/smartphonecat/CarsSmartphone';
+import CitySmartphone from './components/devices/smartphone/smartphonecat/CitySmartphone';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -20,6 +22,8 @@ root.render(
           <Route path='home/smartphone/abstract' element={<AbstractSmartphone />} />
           <Route path='home/smartphone/aerial' element={<AerialSmartphone />} />
           <Route path='home/smartphone/architecture' element={<ArchitectureSmartphone />} />
+          <Route path='home/smartphone/city' element={<CitySmartphone />} />
+          <Route path='home/smartphone/cars' element={<CarsSmartphone />} />
       <Route path='about' element={<About />} />
     </Routes>
   </BrowserRouter>
