@@ -61,7 +61,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,conceptual"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,traffic"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -69,7 +69,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,neon"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,tokyo"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -101,7 +101,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,blue"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,new york"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -109,7 +109,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,moody"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,street"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -125,14 +125,14 @@ export const CitySmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,overcast"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,green"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,aerial"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -153,21 +153,21 @@ export const CitySmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,rush hour"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,metro"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,traffic blocks"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -181,7 +181,7 @@ export const CitySmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,market"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -202,7 +202,7 @@ export const CitySmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,long exposure"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -223,14 +223,14 @@ export const CitySmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?city,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?city,urban"
               alt=""
               class="zoom  rounded-4 shadow"
             />

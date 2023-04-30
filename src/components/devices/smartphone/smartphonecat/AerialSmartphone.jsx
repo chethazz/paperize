@@ -37,7 +37,7 @@ export const AerialSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,road"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -69,7 +69,7 @@ export const AerialSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,city"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const AerialSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,forest"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const AerialSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,delta,"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -125,7 +125,7 @@ export const AerialSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,minimalist"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -139,35 +139,35 @@ export const AerialSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,buildings"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,water"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,aerial,airport"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,airport"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,field"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -244,7 +244,7 @@ export const AerialSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,illusion"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,top view"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -258,7 +258,7 @@ export const AerialSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,lake"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -279,7 +279,7 @@ export const AerialSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,muted"
+              src="https://source.unsplash.com/featured/1440x3120/daily?aerial,autumn"
               alt=""
               class="zoom  rounded-4 shadow"
             />

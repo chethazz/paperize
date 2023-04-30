@@ -153,7 +153,7 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,valley"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -181,7 +181,7 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,green"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -202,14 +202,14 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,switzerland"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,himalayas"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -223,21 +223,21 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,ladakh"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,africa"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,olympus"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -258,14 +258,14 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,greenery"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,treking"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const MountainSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?mountain,snowmountain"
               alt=""
               class="zoom  rounded-4 shadow"
             />

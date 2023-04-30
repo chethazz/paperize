@@ -61,7 +61,7 @@ export const CarsSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,conceptual"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,supercar"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -69,7 +69,7 @@ export const CarsSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,interior"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -77,7 +77,7 @@ export const CarsSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,geometric"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,mercedes"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -101,7 +101,7 @@ export const CarsSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,blue"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,minimalistic"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -109,7 +109,7 @@ export const CarsSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,vintage car"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -160,28 +160,28 @@ export const CarsSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,paint,garage"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,work shop"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,colors"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,steering"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,driver"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -202,14 +202,14 @@ export const CarsSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,company"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,cars"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -223,56 +223,56 @@ export const CarsSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,lambo"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,ferrari"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,rolls royce"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,illusion"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,bentley"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,symmetry"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,sedan"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,coupe"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,sporty"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,simple"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,race"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const CarsSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?car,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?car,dodge"
               alt=""
               class="zoom  rounded-4 shadow"
             />

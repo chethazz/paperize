@@ -37,7 +37,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,greenery"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -61,7 +61,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,conceptual"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,forest,road"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -69,7 +69,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,forest"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -77,7 +77,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,geometric"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,geometry"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,moody"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -101,7 +101,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,blue"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,fog"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -109,7 +109,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,weather,snow"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,yellow"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -125,42 +125,42 @@ export const NatureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,switzerland"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,green"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,austria"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?greenery"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?leaves"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?valley,green"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,rainy,gree"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -181,21 +181,21 @@ export const NatureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,moody,forest"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="SmartphoneAbstract18 rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,dark"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,dark,rain"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,lights"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,rainforest"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -223,21 +223,21 @@ export const NatureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,sweden,green"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,greeny"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,bliss"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -258,21 +258,21 @@ export const NatureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,spring"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,autumn"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,simple"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,autumn fall"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const NatureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?nature,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?nature,spring season"
               alt=""
               class="zoom  rounded-4 shadow"
             />

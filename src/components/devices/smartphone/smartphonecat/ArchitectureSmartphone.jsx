@@ -37,7 +37,7 @@ export const ArchitectureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,ancient"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const ArchitectureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,monuments"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -109,7 +109,7 @@ export const ArchitectureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,architecture"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const ArchitectureSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,house"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -146,7 +146,7 @@ export const ArchitectureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,italian"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -160,35 +160,35 @@ export const ArchitectureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,british"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,palace,interior"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,colors"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,colorful"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="SmartphoneAbstract18 rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,dark"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architectural"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -202,14 +202,14 @@ export const ArchitectureSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,building"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?architecture,egiptian"
               alt=""
               class="zoom  rounded-4 shadow"
             />

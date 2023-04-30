@@ -69,7 +69,7 @@ export const VintageSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,retro"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -77,7 +77,7 @@ export const VintageSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,geometric"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,90s"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -85,7 +85,7 @@ export const VintageSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,minimal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,80s"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const VintageSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,old"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -153,35 +153,35 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,vehicles"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,outfit"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,oldage"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,colors"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,building"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,palace"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -195,14 +195,14 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,lights"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,girl,retro"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,retr"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -216,7 +216,7 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,amoled"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,street"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -237,7 +237,7 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?retro"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -272,7 +272,7 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,simple"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,oldschool"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const VintageSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?vintage,sepia"
               alt=""
               class="zoom  rounded-4 shadow"
             />

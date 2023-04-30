@@ -61,7 +61,7 @@ export const PastelSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,conceptual"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,minimalism"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const PastelSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,plane"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -109,7 +109,7 @@ export const PastelSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,pastel"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const PastelSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,m"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -125,7 +125,7 @@ export const PastelSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,art"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -139,14 +139,14 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,gadget"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,mute"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -174,7 +174,7 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,colors"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,floral"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -195,7 +195,7 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,lights"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,abstract"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -216,21 +216,21 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,amoled"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,smudge"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,pastel,pastel"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,saturation"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -244,7 +244,7 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,illusion"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,water"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const PastelSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?pastel,vibrant"
               alt=""
               class="zoom  rounded-4 shadow"
             />

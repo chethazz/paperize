@@ -37,7 +37,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,piano"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -45,7 +45,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,oil"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,dj"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -69,7 +69,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,singer"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -77,7 +77,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,geometric"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,audio"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -85,7 +85,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,minimal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,music,band"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -93,7 +93,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,concert"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const MusicSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,minimalism"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -132,21 +132,21 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,green"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,gramophone"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,pianist"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,blur"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -167,7 +167,7 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,vocal"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -181,7 +181,7 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,musician"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -195,35 +195,35 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,lights"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,violin"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,saxophone"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,harp"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,amoled"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,hip hop"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,poster"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -237,7 +237,7 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,drums"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -265,7 +265,7 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,earphones"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -286,7 +286,7 @@ export const MusicSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?music,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?music,minimalism"
               alt=""
               class="zoom  rounded-4 shadow"
             />

@@ -45,7 +45,7 @@ export const WaterSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,oil"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,ocean"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -101,7 +101,7 @@ export const WaterSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,blue"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,lake"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -117,7 +117,7 @@ export const WaterSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,atlantic"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -125,21 +125,21 @@ export const WaterSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,window"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,green"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,splash"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,waterfall"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -153,14 +153,14 @@ export const WaterSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,pool"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,stream"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -181,7 +181,7 @@ export const WaterSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,cliff"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -209,14 +209,21 @@ export const WaterSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,greece"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,amoled"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,waves"
+              alt=""
+              class="zoom  rounded-4 shadow"
+            />
+          </div>
+          <div class="rounded-4 shadow">
+            <img
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,underwater"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -230,21 +237,14 @@ export const WaterSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,submarine"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,modern"
-              alt=""
-              class="zoom  rounded-4 shadow"
-            />
-          </div>
-          <div class="rounded-4 shadow">
-            <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,illusion"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,reef"
               alt=""
               class="zoom  rounded-4 shadow"
             />
@@ -258,14 +258,14 @@ export const WaterSmartphone = () => {
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,fish"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?water,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?water,waterfalls"
               alt=""
               class="zoom  rounded-4 shadow"
             />
