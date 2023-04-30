@@ -26,17 +26,10 @@ export const AbstractSmartphone = () => {
           <h1>Abstract</h1>
         </div>
 
-        <section class="text-center AbstractSection shadow-lg d-flex justify-content-center align-items-center m-auto mt-4 rounded-3">
-          <div class="overlay rounded-4"></div>
-          <h1 class="text-light p-2 display-2 position-absolute ShowcaseHeading">
-            Abstract
-          </h1>
-        </section>
-
         <section class="mt-5 gridsmartphone m-auto">
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -44,7 +37,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,paint"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -52,7 +45,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,oil"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,oil"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -60,7 +53,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,indigo"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,indigo"
               alt=""
               class="zoom rounded-4 shadow-sm"
             />
@@ -68,7 +61,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,conceptual"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,conceptual"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -76,7 +69,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,creative"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,creative"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -84,7 +77,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,geometric"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,geometric"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -92,7 +85,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,minimal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,minimal"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -100,7 +93,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,sky"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,sky"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -108,7 +101,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,blue"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,blue"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -116,7 +109,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,weather"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,weather"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -124,7 +117,7 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,pink"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,pink"
               alt=""
               class="zoom rounded-4 shadow"
             />
@@ -132,168 +125,168 @@ export const AbstractSmartphone = () => {
 
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,red"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,red"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,green"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,green"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,oil paint"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,oil paint"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,reflection"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,reflection"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,color blend"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,color blend"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,paint,background"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,paint,background"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,flowers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,flowers"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,colors"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,colors"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,feathers"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,feathers"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="SmartphoneAbstract18 rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,dark"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,dark"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,lights"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,lights"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,violet"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,violet"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,peach"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,peach"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,amoled"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,amoled"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,pastel"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,pastel"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,sandal"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,sandal"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,modern"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,modern"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,illusion"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,illusion"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,symmetry"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,symmetry"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,curve"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,curve"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,texture"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,texture"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,simple"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,simple"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,muted"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,muted"
               alt=""
               class="zoom  rounded-4 shadow"
             />
           </div>
           <div class="rounded-4 shadow">
             <img
-              src="https://source.unsplash.com/featured/1440x3120/daily?abstracts,black and white"
+              src="https://source.unsplash.com/featured/1440x3120/daily?abstract,black and white"
               alt=""
               class="zoom  rounded-4 shadow"
             />
