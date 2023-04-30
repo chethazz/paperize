@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    background: url('https://images.unsplash.com/photo-1580137189272-c9379f8864fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8') no-repeat center center/cover;
+    background: url('https://images.unsplash.com/photo-1570305109029-a0059a91f8f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8') no-repeat center center/cover;
     height: 25rem;
     width: 90%;
     border-radius: 15px;
