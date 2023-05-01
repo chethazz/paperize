@@ -5,7 +5,7 @@
 }
 
 .branding {
-  background: url(/src/assets/main.jpg) no-repeat center center/cover;
+  background: url('https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600') no-repeat center center/cover;
   height: 26.5em;
   border-radius: 12px;
   padding-left: 8rem;
