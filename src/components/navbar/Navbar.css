@@ -1,16 +1,16 @@
 nav {
-    text-align: center;
-    padding: 2rem 0 2rem;
-    background-color: rgb(247, 247, 247);
-    position: static;
+  text-align: center;
+  padding: 2rem 0 2rem;
+  background-color: rgb(247, 247, 247);
+  position: static;
 }
 
 ul {
-    font-size: 25px;
-    font-weight: 500;
+  font-size: 25px;
+  font-weight: 500;
 }
 
 li:hover {
-    cursor: pointer;
-    transition: 1s;
+  cursor: pointer;
+  transition: 1s;
 }

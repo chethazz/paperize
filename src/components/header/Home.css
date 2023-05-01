@@ -1,8 +1,7 @@
-
 .main {
   padding: 0rem 4rem;
   background-color: rgb(247, 247, 247);
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu";
 }
 
 .branding {
@@ -24,8 +23,6 @@
   scale: 1.2;
 }
 
-
-
 .smartphone {
   font-family: "Ubuntu";
   position: relative;
@@ -38,14 +35,14 @@
 }
 
 .desktop {
-    font-family: "Ubuntu";
-    position: relative;
-    background: url(/src/assets/desktop.jpg) no-repeat top center/cover;
-    height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 12px;
+  font-family: "Ubuntu";
+  position: relative;
+  background: url(/src/assets/desktop.jpg) no-repeat top center/cover;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
 }
 
 .smartphone::before {
@@ -75,19 +72,19 @@
 }
 
 .smartphone:hover::before,
-.desktop:hover::before  {
+.desktop:hover::before {
   opacity: 0.5;
   cursor: pointer;
 }
 
-
-.smartphone:hover h2, .desktop:hover h2 {
+.smartphone:hover h2,
+.desktop:hover h2 {
   opacity: 1;
   cursor: default;
 }
 
-
-.smartphone h2, .desktop h2{
+.smartphone h2,
+.desktop h2 {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -96,7 +93,6 @@
   opacity: 0;
   transition: opacity 0.2s ease-in-out;
 }
-
 
 @media screen and (max-width: 480px) {
   .main {
@@ -116,15 +112,18 @@
     height: 21em;
   }
 
-  .smartphone, .desktop {
+  .smartphone,
+  .desktop {
     height: 250px;
   }
 
-  .smartphone h2, .desktop h2{
+  .smartphone h2,
+  .desktop h2 {
     opacity: 1;
   }
 
-  .smartphone::before, .desktop::before {
+  .smartphone::before,
+  .desktop::before {
     content: "";
     position: absolute;
     top: 0;
