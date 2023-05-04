@@ -1,13 +1,13 @@
 nav {
   text-align: center;
-  padding: 2rem 0 2rem;
+  padding: 2rem 0 1rem;
   background-color: rgb(247, 247, 247);
   position: static;
   font-family: 'Poppins', sans-serif;
 }
 
 ul {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 500;
 }
 
