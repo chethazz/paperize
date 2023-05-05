@@ -63,6 +63,14 @@ export const Desktop = () => {
           </div>
           <div className="col-lg-4 col-md-6 col-sm-12 mt-4 p-3 text-center justify-content-center d-flex category-tile">
             <div
+              className="minimal cat-common"
+              onClick={() => navigateToCategory("minimal")}
+            >
+              <h2>Minimal</h2>
+            </div>
+          </div>
+          <div className="col-lg-4 col-md-6 col-sm-12 mt-4 p-3 text-center justify-content-center d-flex category-tile">
+            <div
               className="mountains cat-common"
               onClick={() => navigateToCategory("mountain")}
             >
@@ -109,14 +117,7 @@ export const Desktop = () => {
               <h2>Vintage</h2>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 mt-4 p-3 text-center justify-content-center d-flex category-tile">
-            <div
-              className="water cat-common"
-              onClick={() => navigateToCategory("water")}
-            >
-              <h2>Water</h2>
-            </div>
-          </div>
+          
         </div>
       </div>
       <Footer />

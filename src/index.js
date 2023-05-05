@@ -27,8 +27,8 @@ import PastelSmartphone from "./components/devices/smartphone/smartphonecat/Past
 import PastelDesktop from "./components/devices/desktop/desktopcat/PastelDesktop";
 import VintageSmartphone from "./components/devices/smartphone/smartphonecat/VintageSmartphone";
 import VintageDesktop from "./components/devices/desktop/desktopcat/VintageDesktop";
-import WaterSmartphone from "./components/devices/smartphone/smartphonecat/WaterSmartphone";
-import WaterDesktop from "./components/devices/desktop/desktopcat/WaterDesktop";
+import MinimalSmartphone from "./components/devices/smartphone/smartphonecat/MinimalSmartphone";
+import MinimalDesktop from "./components/devices/desktop/desktopcat/MinimalDesktop";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -48,7 +48,7 @@ root.render(
         <Route path="home/desktop/nightsky" element={<NightSkyDesktop />} />
         <Route path="home/desktop/pastel" element={<PastelDesktop />} />
         <Route path="home/desktop/vintage" element={<VintageDesktop />} />
-        <Route path="home/desktop/water" element={<WaterDesktop />} />
+        <Route path="home/desktop/minimal" element={<MinimalDesktop />} />
       <Route path="home/smartphone" element={<Smartphone />} />
         <Route path="home/smartphone/abstract" element={<AbstractSmartphone />} />
         <Route path="home/smartphone/aerial" element={<AerialSmartphone />} />
@@ -61,7 +61,7 @@ root.render(
         <Route path="home/smartphone/nightsky" element={<NightSkySmartphone />} />
         <Route path="home/smartphone/pastel" element={<PastelSmartphone />} />
         <Route path="home/smartphone/vintage" element={<VintageSmartphone />} />
-        <Route path="home/smartphone/water" element={<WaterSmartphone />} />
+        <Route path="home/smartphone/minimal" element={<MinimalSmartphone />} />
       <Route path="about" element={<About />} />
     </Routes>
   </BrowserRouter>
