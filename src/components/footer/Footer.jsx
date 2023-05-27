@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="regulus">
           <h4>
             By&nbsp;
-            <a href="https://chethazz.vercel.app">Regulus</a>
+            <a href="https://chethas.vercel.app">Regulus</a>
           </h4>
         </div>
       </div>
