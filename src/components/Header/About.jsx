@@ -17,9 +17,7 @@ export const About = () => {
               available to choose from. Either Desktop or Smartphone. The
               resolution depends upon the device type you select. Resolution is
               3840x2160 for Desktop and 1440x3120 for Smartphone. There are 36
-              wallpapers in each category(36x12 wallpapers for each device). The
-              design language for this project was inspired from&nbsp;
-              <a href="http://github.com/98mohitkumar">Mohit Kumar</a>'s prjects
+              wallpapers in each category(36x12 wallpapers for each device).
             </p>
           </div>
           <h3 className="unsplash">
